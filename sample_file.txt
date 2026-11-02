@@ -1,0 +1,3 @@
+Hello, this is my first file written with Python.
+Python makes file handling easy.
+This file was created for the Python and Bash assignment.

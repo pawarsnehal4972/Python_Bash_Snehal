@@ -1,0 +1,17 @@
+# Task 1: Grade Checker
+# Takes a score as input and prints the grade.
+
+score = float(input("Enter the score: "))
+
+if score >= 90:
+    grade = "A"
+elif score >= 80:
+    grade = "B"
+elif score >= 70:
+    grade = "C"
+elif score >= 60:
+    grade = "D"
+else:
+    grade = "F"
+
+print("Grade:", grade)
